@@ -6,6 +6,10 @@ const fs = require('fs');
 const program = new Command();
 
 program
+  .version('1.0.0')
+  .description('CLI tool for working with environment variables');
+
+program
     .command('get <name>')
     .description('Get the value of a variable')
     .action((name) => {
