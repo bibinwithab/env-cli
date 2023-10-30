@@ -1,0 +1,20 @@
+{
+  "name": "env-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to set and get env variables",
+  "main": "index.js",
+  "bin":{
+    "env": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^11.1.0",
+    "dotenv": "^16.3.1",
+    "fs": "^0.0.1-security"
+  }
+}
