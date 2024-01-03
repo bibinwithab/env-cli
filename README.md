@@ -29,7 +29,7 @@ npm install -g env-mod
 To set an environment variable in the `.env` file, use the following command:
 
 ```bash
-env-mod set KEY=value
+env-mod set KEY value
 ```
 
 ### Getting Environment Variables
@@ -57,7 +57,7 @@ env-mod delete KEY
 
 ```bash
 # Set environment variable
-env-mod set DATABASE_URL=mongodb://localhost:27017/mydb
+env-mod set DATABASE_URL "mongodb://localhost:27017/mydb"
 
 # Get environment variable value
 env-mod get DATABASE_URL
