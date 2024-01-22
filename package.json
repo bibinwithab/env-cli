@@ -1,6 +1,6 @@
 {
   "name": "env-mod",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "CLI tool to set and get env variables",
   "main": "index.js",
   "bin":{
