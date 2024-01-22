@@ -75,5 +75,3 @@ Contributions are welcome! To contribute to `env-mod`, follow these steps:
 3. Make your changes and commit them: `git commit -m 'Add new feature'`.
 4. Push to the branch: `git push origin feature/new-feature`.
 5. Submit a pull request.
-
-Feel free to modify this template according to your project's specific details and requirements. Make sure to include relevant information about installation, usage, options, examples, contributing guidelines, and the license.
