@@ -6,7 +6,7 @@ const fs = require("fs");
 const program = new Command();
 
 program
-  .version("1.0.0")
+  .version("1.0.1")
   .description("CLI tool for working with environment variables [env]");
 
 program
