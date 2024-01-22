@@ -4,7 +4,7 @@
   "description": "CLI tool to set and get env variables",
   "main": "index.js",
   "bin":{
-    "env": "./index.js"
+    "env-mod": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
